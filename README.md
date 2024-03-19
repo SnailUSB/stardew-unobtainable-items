@@ -41,7 +41,7 @@
 - Magic rock candy (gold star)
 - Magic rock candy (iridium star)
 - 5x items all named crate
-- 3 items all named supply crate
+- 3x items all named supply crate
 
 # China exclusive item
 - Panda hat
