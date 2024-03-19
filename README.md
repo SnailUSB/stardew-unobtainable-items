@@ -1,4 +1,4 @@
-# Stardew Unobtainable Items - Made by @SnailUSB 🐌
+# Stardew Valley Unobtainable Items Save - Made by @SnailUSB 🐌
 🐌This save file has all of the current unobtainable items in stardew valley 1.5.6, in a stack of 999 when possible.
 
 🐌 All of the items can be found in the shed to the left of the house
