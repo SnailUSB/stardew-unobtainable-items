@@ -1,6 +1,6 @@
-# stardew-unobtainable-items
-## Made by @SnailUSB
+# Stardew Unobtainable Items - Made by @SnailUSB
 This save file has all of the current unobtainable items in stardew valley 1.5, in a stack of 999 when possible.
+All of the items can be found in the shed to the left of the house
 
 # The Unobtainable Items
 - Cowboy boots
@@ -43,4 +43,10 @@ This save file has all of the current unobtainable items in stardew valley 1.5, 
 # China exclusive item
 - Panda hat
 
+This is an item that you can get normally in chinese exsluive item, but for some reason its left in the normal version of stardew valley, just unobatainable 
+
 # Other features on this save
+- Empty Cleared out Farm
+- Maxed Health and Energy
+- Maxed House
+- All Iridium Tools
