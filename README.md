@@ -46,7 +46,7 @@
 # China exclusive item
 - Panda hat
 
-This is an item that you can get normally in chinese exsluive item, but for some reason its left in the normal version of stardew valley, just unobatainable 
+This is an item that you can get normally in chinese version of stardew valley, but for some reason its left in the normal version of stardew valley, just unobatainable 
 
 # Other features on this save
 - Empty Cleared out Farm
