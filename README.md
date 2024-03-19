@@ -3,7 +3,7 @@
 
 🐌 All of the items can be found in the shed to the left of the house
 
-★ ***Map will be updated to include/change any unobtainable items that come with the 1.6 update, once its out***
+★ ***Map will be updated to include/change any unobtainable items that come with future updates***
 
 # The Unobtainable Items
 - Cowboy boots
@@ -12,15 +12,6 @@
 - red buttoned vest
 - Holy sword
 - Galaxy slingshot
-- Elliots pencil
-- Harvey's mallet
-- Seb's lost mace
-- Sam's old Guitar
-- Haley's iron
-- Alex's bat
-- Abby's planchette
-- Penny's fryer
-- Maru's wrench
 - Camera
 - Boulder
 - Ritual mask
