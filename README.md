@@ -1,7 +1,9 @@
-# Stardew Unobtainable Items - Made by @SnailUSB
-★This save file has all of the current unobtainable items in stardew valley 1.5, in a stack of 999 when possible.
+# Stardew Unobtainable Items - Made by @SnailUSB 🐌
+🐌This save file has all of the current unobtainable items in stardew valley 1.5.6, in a stack of 999 when possible.
 
-★All of the items can be found in the shed to the left of the house
+🐌 All of the items can be found in the shed to the left of the house
+
+★ ***Map will be updated to include/change any unobtainable items that come with the 1.6 update, once its out***
 
 # The Unobtainable Items
 - Cowboy boots
