@@ -4,6 +4,7 @@
 🐌 All of the items can be found in the shed to the left of the house
 
 ★ ***Map will be updated to include/change any unobtainable items that come with future updates***
+
 ★ The 1.6 update made the unobtainable NPC weapons obtainable, so they have been removed from the map
 
 # The Unobtainable Items
