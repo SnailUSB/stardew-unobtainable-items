@@ -12,7 +12,6 @@
 - Jukebox ring
 - Tye die shirt
 - red buttoned vest
-- Holy sword
 - Galaxy slingshot
 - Camera
 - Boulder
@@ -29,12 +28,11 @@
 - camping stove
 - slime crate
 - Warp totem: Qi's arena
-- Aged legend roe
-- Age legend II roe
 - Magic rock candy (gold star)
 - Magic rock candy (iridium star)
 - 5x items all named crate
 - 3x items all named supply crate
+- 2x artifact spots
 
 # China exclusive item
 - Panda hat
